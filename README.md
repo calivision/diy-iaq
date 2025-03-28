@@ -1,4 +1,4 @@
-# What's Your Air Quality? | Build Designs for Indoor Air Quality Metering 
+# What's Your Air Quality? | Build Designs for Indoor Air Quality Monitors 
 ## Make Your Own IAQ Monitor & Save!
 
 ### What is this project?
