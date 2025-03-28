@@ -3,7 +3,8 @@
 
 ### What is this project?
 DIY IAQ brings together code, hardware, and enclosure files to get started with environmental sensors for indoor air quality. <br> 
-This project has reviewed documentation from Bosch for 68x sensors and includes code as permitted by license.
+This project has reviewed documentation from Bosch for 68x sensors and includes code as permitted by license. <br>
+I am in the process of asking Bosch to permit me to include the BSEC Integration Guide in this repo. The Release Notes and BSEC2 Binary Size Information files are included in the repository for now.
 
 ## Build 1 
 ### Assemble Components 
