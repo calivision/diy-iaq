@@ -2,8 +2,8 @@
 ## DIY-IAQ | Indoor Air Quality Monitoring System | Make Your Own IAQ Monitor!
 
 ### What is this project?
-DIY IAQ brings together code, hardware, and enclosure files to get started with environmental sensors for indoor air quality. <br> 
-This project has reviewed documentation from Bosch for 68x sensors and includes code as permitted by license. <br>
+DIY IAQ brings together code, hardware, and enclosure files to get started with environmental sensors for indoor air quality. 
+This project has reviewed documentation from Bosch for 68x sensors and includes code as permitted by license.
 Release Notes and BSEC2 Binary Size Information files are included in the repository for now.
 
 ## Build 1 
