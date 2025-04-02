@@ -6,6 +6,10 @@ DIY IAQ brings together code, hardware, and enclosure files to get started with 
 This project has reviewed documentation from Bosch for 68x sensors and includes code as permitted by license.
 Release Notes and BSEC2 Binary Size Information files are included in the repository for now.
 
+[View this project on Hackster.io with pictures and video](https://www.hackster.io/david-anderson3/diy-iaq-indoor-air-quality-monitor-xiao-samd21-bme680-e9f8e3) <br>
+<br>
+[DIY-IAQ YouTube Short Video | Shows IAQ Accuracy Metric Change](https://youtube.com/shorts/EIIJA0CVomI?si=GgLcWr9QqU5e79Y_)
+
 ## Build 1 
 ### Assemble Components 
 
