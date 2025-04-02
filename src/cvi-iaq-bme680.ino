@@ -25,6 +25,15 @@
   Hardcoded values using #define should be changed to const or constexpr - 03/25
   Code is being uploaded as-is, users should be aware that despite this file saying
   MIT License, the bsec.h file and other Bosch code has BSD-3-Clause License
+
+  SEALEVELPRESSURE_HPA is currently set for Las Vegas - Change this value based on your location
+  for accurate readings.
+
+  Adding this project as the .ino file in Arduino IDE after installing Adafruit_SSD1306 and 
+  bsec.h is recommended.
+
+  Future versions of this project may include code that can be tested with cmake.
+
  ***************************************************************************/
 
 #include <bsec.h>

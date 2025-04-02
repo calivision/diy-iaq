@@ -34,8 +34,9 @@
  * @date	27 May 2022
  * @version	1.4.1492
  *  
- * 03/38/25 - This file was added to the repository because it does not seem to be available in
+ * 03/38/25 - This file was added to the repository by David Anderson. It does not seem to be available in
  * the Arduino IDE and can be included manually under the 'Sketch' tab in the ARduino IDE. 
+ * 
  * 
  * /
 
